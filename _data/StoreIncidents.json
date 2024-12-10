@@ -3,12 +3,12 @@
 	{
 		"abr": "tornado",
 		"price": 800,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
 		"price": 2600,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
@@ -81,8 +81,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "amy",
-		"price": 65000,
+		"abr": "toxicfallout",
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -124,11 +124,6 @@
 		"abr": "orbitaltraderarrival",
 		"price": 350,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "madanimal",
@@ -181,11 +176,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitorgroup",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
@@ -218,12 +208,7 @@
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
@@ -238,7 +223,7 @@
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
@@ -271,6 +256,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -287,18 +277,8 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 6,
+		"price": 50,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitcolony",
-		"price": 300,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "randominspire",
@@ -327,7 +307,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17,
+		"price": 17336,
 		"karmatype": "Good"
 	},
 	{
@@ -367,7 +347,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 700,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -416,10 +396,15 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "smite",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 84
+	"total": 81
 }

@@ -1,0 +1,9 @@
+{
+	"defName":"VisitColony",
+	"abbreviation":"visitcolony",
+	"cost":"-10",
+	"eventCap":"5",
+	"karmaType":"Good",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

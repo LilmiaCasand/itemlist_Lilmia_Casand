@@ -1,0 +1,9 @@
+{
+	"defName":"RemovePassion",
+	"abbreviation":"removepassion",
+	"cost":"5000",
+	"eventCap":"200",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

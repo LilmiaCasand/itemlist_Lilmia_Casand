@@ -1,0 +1,9 @@
+{
+	"defName":"Item",
+	"abbreviation":"item",
+	"cost":"0",
+	"eventCap":"20",
+	"karmaType":"Good",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

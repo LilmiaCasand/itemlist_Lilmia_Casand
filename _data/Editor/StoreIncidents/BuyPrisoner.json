@@ -1,0 +1,9 @@
+{
+	"defName":"BuyPrisoner",
+	"abbreviation":"prisoner",
+	"cost":"-10",
+	"eventCap":"5",
+	"karmaType":"Good",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

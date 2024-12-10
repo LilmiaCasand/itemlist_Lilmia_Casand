@@ -1,0 +1,9 @@
+{
+	"defName":"DropRaid",
+	"abbreviation":"dropraid",
+	"cost":"-10",
+	"eventCap":"2",
+	"karmaType":"Bad",
+	"minPointsToFire":"1500",
+	"maxWager":"10000",
+}

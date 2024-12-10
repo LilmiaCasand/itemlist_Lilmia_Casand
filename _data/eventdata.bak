@@ -193,9 +193,9 @@
   },
   "tradercaravan": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 300,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -482,9 +482,9 @@
   "genderswap": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "item": {
